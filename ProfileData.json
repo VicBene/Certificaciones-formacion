@@ -1,0 +1,157 @@
+{
+  "Name": "Víctor Beneito López",
+  "CourseProgress": [
+    {
+      "CourseName": "Google Analytics for Beginners",
+      "StartDate": 20230330,
+      "CourseCompleted": true,
+      "CertificateDate": 20230403,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    },
+    {
+      "CourseName": "Advanced Google Analytics",
+      "StartDate": 20230403,
+      "CourseCompleted": true,
+      "CertificateDate": 20230403,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    },
+    {
+      "CourseName": "Google Tag Manager Fundamentals",
+      "StartDate": 20230403,
+      "CourseCompleted": true,
+      "CertificateDate": 20230404,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    },
+    {
+      "CourseName": "Getting Started With Google Analytics 360",
+      "StartDate": 20230404,
+      "CourseCompleted": true,
+      "CertificateDate": 20230405,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 5",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 6",
+          "Passed": true
+        }
+      ]
+    },
+    {
+      "CourseName": "Google Analytics for Power Users",
+      "StartDate": 20230405,
+      "CourseCompleted": true,
+      "CertificateDate": 20230405,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    },
+    {
+      "CourseName": "Introduction to Data Studio",
+      "StartDate": 20230405,
+      "CourseCompleted": true,
+      "CertificateDate": 20230405,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    }
+  ]
+}
