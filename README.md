@@ -9,6 +9,8 @@
 - Google Analytics para Usuarios Avanzados. https://analytics.google.com/analytics/academy/certificate/otffk_o9SEWNnjzXnHVfOg
 - Introducción a Data Studio. https://analytics.google.com/analytics/academy/certificate/bpFk1OUbS1qC5Wq92M0Hug
 
+- Google Cloud: Getting Started - Create and Manage Cloud Resource. https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3425264
+
 ## Programación
 - Curso de Programación en Java. Análisis orientado a objetos con UML
 - Seminario técnico sobre desenvolvimiento de servicios web usando tecnologia Java EE6
