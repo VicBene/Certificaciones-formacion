@@ -10,6 +10,8 @@
 - Introducción a Data Studio. https://analytics.google.com/analytics/academy/certificate/bpFk1OUbS1qC5Wq92M0Hug
 
 - Google Cloud: Getting Started - Create and Manage Cloud Resource. https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3425264
+- Google Cloud Fundamentals: Core Infrastructure. https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3452613
+- 
 - Looker Connect Learning: Data Consumer, LookML Developer, Admin. https://connect.looker.com/
 
 ## Programación
