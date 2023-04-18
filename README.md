@@ -1,7 +1,8 @@
 # Certificados-de-cursos
- Cettificados adquiridos en cursos de formación
+ Certificados e insignias adquiridas en diversos cursos de formación, seminarios, 
 
 ## Análisis de Datos
+### Google
 - Perfil público de Google: https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5
 - Google Analytics para Principiantes. https://analytics.google.com/analytics/academy/certificate/-fpKhPsOSk-i8Nr6bBSNHw
 - Curso avanzado de Google Analytics. https://analytics.google.com/analytics/academy/certificate/CQy5RkzhTSCcTbKuagzf-w
@@ -9,16 +10,17 @@
 - Introducción a Google Analytics 360. https://analytics.google.com/analytics/academy/certificate/17zukPDWRAy0RM04u-bUCQ
 - Google Analytics para Usuarios Avanzados. https://analytics.google.com/analytics/academy/certificate/otffk_o9SEWNnjzXnHVfOg
 - Introducción a Data Studio. https://analytics.google.com/analytics/academy/certificate/bpFk1OUbS1qC5Wq92M0Hug
-
+- Looker Connect Learning: Data Consumer, LookML Developer, Admin. https://connect.looker.com/
 - Google Cloud: Getting Started - Create and Manage Cloud Resource. https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3425264
 - Google Cloud Fundamentals: Core Infrastructure. https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3452613
 - Google Cloud Big Data and Machine Learning Fundamentals. https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3492746
 
-- Looker Connect Learning: Data Consumer, LookML Developer, Admin. https://connect.looker.com/
 
 ## Programación
-- Curso de Programación en Java. Análisis orientado a objetos con UML
-- Seminario técnico sobre desenvolvimiento de servicios web usando tecnologia Java EE6
+- Curso de Programación en Java. Análisis orientado a objetos con UML. 
+- Seminario técnico sobre desenvolvimiento de servicios web usando tecnologia Java EE6.
+- Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix).
+- Curso de Diseño de páginas web en HTML con integración de multimedia, Javascript y Java.
 
 ## Bases de datos
 - Curso Administracion de bases de datos Oracle 11g R2 DBA OCP.
