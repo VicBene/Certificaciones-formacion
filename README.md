@@ -2,6 +2,7 @@
  Cettificados adquiridos en cursos de formación
 
 ## Análisis de Datos
+- Perfil público de Google: https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5
 - Google Analytics para Principiantes. https://analytics.google.com/analytics/academy/certificate/-fpKhPsOSk-i8Nr6bBSNHw
 - Curso avanzado de Google Analytics. https://analytics.google.com/analytics/academy/certificate/CQy5RkzhTSCcTbKuagzf-w
 - Conceptos básicos de Google Tag Manager. https://analytics.google.com/analytics/academy/certificate/kR4BePvJSweHY9BhoTYK9g
