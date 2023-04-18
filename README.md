@@ -1,5 +1,5 @@
-# Certificados-de-cursos
- Certificados e insignias adquiridas en diversos cursos de formación, seminarios, 
+# Certificados de cursos y seminarios
+ Certificados e insignias adquiridas en diversos cursos de formación, seminarios, etc.
 
 ## Análisis de Datos
 ### Google
