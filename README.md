@@ -27,9 +27,10 @@
 
 ## Programación
 - Curso de Programación en Java. Análisis orientado a objetos con UML. 
-- Seminario técnico sobre desenvolvimiento de servicios web usando tecnologia Java EE6.
+- Seminario técnico sobre Desenvolvimiento de servicios web usando tecnologia Java EE6.
 - Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix).
 - Curso de Diseño de páginas web en HTML con integración de multimedia, Javascript y Java.
+- Seminario técnico de Introducción al Machine Learning con Python
 
 ## Bases de datos
 - Curso Administracion de bases de datos Oracle 11g R2 DBA OCP.
