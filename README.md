@@ -23,7 +23,7 @@
 
 
 ## Gestión de Proyectos / Proyect Management
-- Fundamentos de la Gestión de Proyectos
+- Fundamentos de la Gestión de Proyectos (Coursera - Google)
 
 ## Programación
 - Curso de Programación en Java. Análisis orientado a objetos con UML. 
