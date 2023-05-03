@@ -2,6 +2,8 @@
  Certificados e insignias adquiridas en diversos cursos de formación, seminarios, etc.
 
 ## Análisis de Datos
+- Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/
+
 ### Google
 - Perfil público de Google: https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5
 - Google Cloud Big Data and Machine Learning Fundamentals. https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3492746
