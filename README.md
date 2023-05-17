@@ -25,10 +25,11 @@
 ## Gestión de Proyectos / Proyect Management
 ### Google
 - Fundamentos de la Gestión de Proyectos (Coursera). https://www.coursera.org/account/accomplishments/certificate/DT77S3EKBQ7U
-- Project Initiation: Starting a Successful Project (Coursera).
+- Iniciación del proyecto: Cómo iniciar un proyecto exitoso (Coursera). https://www.coursera.org/account/accomplishments/certificate/2VE9KUVVSAZD
+- Planificación del proyecto: reunir todos los elementos (Coursera). 
 
 ## Programación
-- Curso de Programación en Java. Análisis orientado a objetos con UML. 
+- Curso de Programación en Java. Análisis orientado a objetos con UML. https://github.com/VicBene/Certificados-de-cursos/CertificadoSunCursoProgramaciónenJava.pdf
 - Seminario técnico sobre Desenvolvimiento de servicios web usando tecnologia Java EE6.
 - Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix).
 - Curso de Diseño de páginas web en HTML con integración de multimedia, Javascript y Java.
