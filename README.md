@@ -29,7 +29,7 @@
 - Planificación del proyecto: reunir todos los elementos (Coursera). 
 
 ## Programación
-- Curso de Programación en Java. Análisis orientado a objetos con UML. 
+- Curso de Programación en Java. Análisis orientado a objetos con UML. https://github.com/VicBene/Certificados-de-cursos/CertificadoSunCursoProgramaciónenJava.pdf
 - Seminario técnico sobre Desenvolvimiento de servicios web usando tecnologia Java EE6.
 - Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix).
 - Curso de Diseño de páginas web en HTML con integración de multimedia, Javascript y Java.
