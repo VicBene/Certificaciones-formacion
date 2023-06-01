@@ -26,7 +26,7 @@
 ### Google
 - Fundamentos de la Gestión de Proyectos (Coursera). https://www.coursera.org/account/accomplishments/certificate/DT77S3EKBQ7U
 - Iniciación del proyecto: Cómo iniciar un proyecto exitoso (Coursera). https://www.coursera.org/account/accomplishments/certificate/2VE9KUVVSAZD
-- Planificación del proyecto: reunir todos los elementos (Coursera). 
+- Planificación del proyecto: reunir todos los elementos (Coursera). https://www.coursera.org/account/accomplishments/certificate/AUHS25Y3T8DR
 
 ## Programación
 - Curso de Programación en Java. Análisis orientado a objetos con UML.
