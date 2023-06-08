@@ -24,7 +24,10 @@
 
 ## Gestión de Proyectos / Proyect Management
 ### Scrum Manager. Acreditaciones.
-- Técnico. https://www.scrummanager.com/website/c/profile/member.php?id=44131
+- Perfil público: https://www.scrummanager.com/website/c/profile/member.php?id=44131
+- Técnico. 
+<a href='https://scrummanager.com/website/c/profile/member.php?id=44131'>
+<img alt='Scrum Manager Técnico' src='https://scrummanager.com/website/img/tecnico-es.png'></a>
 - Kanban Essentials.
 - Lean.
 
