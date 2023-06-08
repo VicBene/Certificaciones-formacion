@@ -25,6 +25,7 @@
 ## Gestión de Proyectos / Proyect Management
 ### Scrum Manager. Acreditaciones.
 - Perfil público: https://www.scrummanager.com/website/c/profile/member.php?id=44131
+
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Scrum Manager Técnico' src='https://scrummanager.com/website/img/tecnico-es.png'></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'><img alt='Kanban Essentials' src='https://scrummanager.com/intranet/files/credential/9/smalllogo.png'></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'><img alt='Lean' src='https://scrummanager.com/intranet/files/credential/12/smalllogo.png'></a>
