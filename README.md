@@ -23,6 +23,11 @@
 
 
 ## Gestión de Proyectos / Proyect Management
+### Scrum Manager. Acreditaciones.
+- Técnico. https://www.scrummanager.com/website/c/profile/member.php?id=44131
+- Kanban Essentials.
+- Lean.
+
 ### Google
 - Fundamentos de la Gestión de Proyectos (Coursera). https://www.coursera.org/account/accomplishments/certificate/DT77S3EKBQ7U
 - Iniciación del proyecto: Cómo iniciar un proyecto exitoso (Coursera). https://www.coursera.org/account/accomplishments/certificate/2VE9KUVVSAZD
