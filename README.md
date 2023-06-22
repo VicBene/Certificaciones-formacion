@@ -36,7 +36,7 @@
 - Planificación del proyecto: reunir todos los elementos (Coursera). https://www.coursera.org/account/accomplishments/certificate/AUHS25Y3T8DR
 
 ## Programación
-- Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy)
+- Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/
 - Curso de Programación en Python (CAS Training - OpenEDG - Python Institute)
 - Curso de Programación en Java. Análisis orientado a objetos con UML.
 - Seminario técnico sobre Desenvolvimiento de servicios web usando tecnologia Java EE6.
