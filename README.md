@@ -1,4 +1,4 @@
-# Certificados de cursos y seminarios
+# Certificados, cursos y seminarios
  Certificados e insignias adquiridas en diversos cursos de formación, seminarios, etc.
 
 ## Análisis de Datos
@@ -28,6 +28,7 @@
 
 <a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Master I' src='https://static.scrum.org/web/badges/badge-psmi.svg' width="100" height="100"></a>
 <a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Product Owner I' src='https://static.scrum.org/web/badges/badge-pspoi.svg' width="100" height="100"></a>
+<a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Master II' src='https://static.scrum.org/web/badges/badge-psmii.svg' width="100" height="100"></a>
 
 ### Scrum Manager. Acreditaciones.
 - Perfil público: https://www.scrummanager.com/website/c/profile/member.php?id=44131
@@ -36,15 +37,17 @@
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Kanban Essentials' src='https://scrummanager.com/intranet/files/credential/9/smalllogo.png'></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Lean' src='https://scrummanager.com/intranet/files/credential/12/smalllogo.png'></a>
 
-### Google
+### Google - Certificado Profesional: Gestión de Proyectos
 - Fundamentos de la Gestión de Proyectos (Coursera). https://www.coursera.org/account/accomplishments/certificate/DT77S3EKBQ7U
 - Iniciación del proyecto: Cómo iniciar un proyecto exitoso (Coursera). https://www.coursera.org/account/accomplishments/certificate/2VE9KUVVSAZD
-- Planificación del proyecto: reunir todos los elementos (Coursera). https://www.coursera.org/account/accomplishments/certificate/AUHS25Y3T8DR
-- Ejecución del proyecto: ejecutar el proyecto (Coursera). - EN PROCESO
+- Planificación del proyecto: Reunir todos los elementos (Coursera). https://www.coursera.org/account/accomplishments/certificate/AUHS25Y3T8DR
+- Ejecución del proyecto: Ejecutar el proyecto (Coursera). https://www.coursera.org/account/accomplishments/certificate/L4UNKAPAXZM2
+- Gestión de proyectos con la metodología Agile (Coursera). https://www.coursera.org/account/accomplishments/certificate/7GH7STREGHAZ
+- Proyecto final: Aplicación de la gestión de proyectos en el mundo real (Coursera). *EN PROCESO*.  
 
 ## Programación
 - Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/
-- Curso de Programación en Python (CAS Training - OpenEDG - Python Institute). Certificaciones PCEP-30-02 y PCAP-31-03 en proceso.
+- Curso de Programación en Python (CAS Training - OpenEDG - Python Institute). Certificaciones PCEP-30-02 y PCAP-31-03 *EN PROCESO*.
 - Curso de Programación en Java. Análisis orientado a objetos con UML.
 - Seminario técnico sobre Desenvolvimiento de servicios web usando tecnologia Java EE6.
 - Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix).
