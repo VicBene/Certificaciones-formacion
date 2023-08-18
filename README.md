@@ -43,7 +43,10 @@
 - Planificación del proyecto: Reunir todos los elementos (Coursera). https://www.coursera.org/account/accomplishments/certificate/AUHS25Y3T8DR
 - Ejecución del proyecto: Ejecutar el proyecto (Coursera). https://www.coursera.org/account/accomplishments/certificate/L4UNKAPAXZM2
 - Gestión de proyectos con la metodología Agile (Coursera). https://www.coursera.org/account/accomplishments/certificate/7GH7STREGHAZ
-- Proyecto final: Aplicación de la gestión de proyectos en el mundo real (Coursera). *EN PROCESO*.  
+- Proyecto final: Aplicación de la gestión de proyectos en el mundo real (Coursera). *EN PROCESO*.
+
+### Master en Agile - theUncoding
+- https://theuncoding.com/certificates/master-agile/?course_id=68403&cert-nonce=a82f50cbf8
 
 ## Programación
 - Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/
