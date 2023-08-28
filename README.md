@@ -25,6 +25,11 @@
 - <a href='https://www.coursera.org/account/accomplishments/certificate/7GH7STREGHAZ'> Gestión de proyectos con la metodología Agile. </a>
 - <a href='https://www.coursera.org/account/accomplishments/certificate/AJS94LKUJ88S'> Proyecto final: Aplicación de la gestión de proyectos en el mundo real. </a>
 
+### Project Management Institute (PMI®)
+<a> <img alt='PMI Member Badge' src='PROJECT MANAGEMENT/PMI Member Badge_2023.png' width="100" height="100"></a>
+<a href='https://www.credly.com/badges/7831b390-29d9-49b9-a8da-e07590a85ca4'> <img alt='Fundamentos de la Dirección de Proyectos Predictive' src='https://images.credly.com/size/680x680/images/dc9bd8c5-2aca-4fd1-8b74-694cde87ecb0/image.png' width="100" height="100"></a>
+<a href='https://www.credly.com/badges/5f582eff-5754-419e-853a-6b05496b6a93'> <img alt='Fundamentos de la Dirección de Proyectos Ágiles' src='https://images.credly.com/size/680x680/images/c38c229e-0011-4752-9ee0-bb7b4a4d0ab0/KickoffAgileBadge.png' width="100" height="100"></a>
+
 ### Máster en Agile - theUncoding / Cluster TIC
 - <a href='https://shop.theuncoding.com/producto/master-agile/'> Contenido del Máster </a>
 - <a href='https://theuncoding.com/certificates/master-agile/?course_id=68403&cert-nonce=a82f50cbf8'> Certificado </a>
