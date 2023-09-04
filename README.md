@@ -38,6 +38,10 @@
 ## Análisis de Datos y Big Data
 - <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
 
+### Programa en Big Data - The Valley Digital Business School
+- <a href='https://www.actualizateprograma.es/Dossier%20Big%20Data%20-%20programa%20Actual%C3%ADzate.pdf'> Contenido del Curso </a>
+- <a href='ANALISIS%20DE%20DATOS%20Y%20BIG%20DATA/Certificado%20Curso%20de%20Programa%20en%20Big%20Data.pdf'> Certificado </a>
+
 ### Google Cloud Skills Boost
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5'> Perfil público </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3492746'> Google Cloud Big Data and Machine Learning Fundamentals. </a>
