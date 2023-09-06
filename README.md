@@ -34,6 +34,13 @@
 - <a href='https://shop.theuncoding.com/producto/master-agile/'> Contenido del Máster </a>
 - <a href='https://theuncoding.com/certificates/master-agile/?course_id=68403&cert-nonce=a82f50cbf8'> Certificado </a>
 
+### JIRA Software (Atlassian Suite)
+- <a href='https://www.udemy.com/certificate/UC-d91b6d53-10dc-4dbb-aaae-39df90783d16/'> Jira: Gestiona proyectos Corporativos de forma Ágil (Ûdemy) </a>
+- <a href='https://www.udemy.com/certificate/UC-83506a67-8d3b-421f-abb8-9c893ecd63dd/'> Gestiona tu Proyecto Agile Scrum con Jira (Ûdemy) </a>
+
+
+
+
 
 ## Análisis de Datos y Big Data
 - <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
