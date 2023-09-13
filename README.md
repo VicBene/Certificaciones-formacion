@@ -3,14 +3,14 @@
 
 ## Gestión de Proyectos / Proyect Management
 ### Scrum.org. Certificados profesionales.
-- <a href='https://www.scrum.org/user/1248029'> Perfil público </a>
+- <a href='https://www.scrum.org/user/1248029'> ***Perfil público*** </a>
 
 <a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Master I' src='https://static.scrum.org/web/badges/badge-psmi.svg' width="100" height="100"></a>
 <a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Product Owner I' src='https://static.scrum.org/web/badges/badge-pspoi.svg' width="100" height="100"></a>
 <a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Master II' src='https://static.scrum.org/web/badges/badge-psmii.svg' width="100" height="100"></a>
 
 ### Scrum Manager. Certificados profesionales.
-- <a href='https://www.scrummanager.com/website/c/profile/member.php?id=44131'> Perfil público </a>
+- <a href='https://www.scrummanager.com/website/c/profile/member.php?id=44131'> ***Perfil público*** </a>
 
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Scrum Manager Experto' src='https://scrummanager.com/website/img/experto-es.png'></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Kanban Essentials' src='https://scrummanager.com/intranet/files/credential/9/smalllogo.png'></a>
@@ -39,9 +39,6 @@
 - <a href='https://www.udemy.com/certificate/UC-83506a67-8d3b-421f-abb8-9c893ecd63dd/'> Gestiona tu Proyecto Agile Scrum con Jira (Ûdemy) </a>
 
 
-
-
-
 ## Análisis de Datos y Big Data
 - <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
 
@@ -50,14 +47,17 @@
 - <a href='ANALISIS%20DE%20DATOS%20Y%20BIG%20DATA/Certificado%20Curso%20de%20Programa%20en%20Big%20Data.pdf'> Certificado </a>
 
 ### Google Cloud Skills Boost
-- <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5'> Perfil público </a>
+- <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5'> ***Perfil público*** </a>
+
+#### Data Analyst Learning Path
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3492746'> Google Cloud Big Data and Machine Learning Fundamentals. </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3529538'> Exploring and Preparing your Data with BigQuery. </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3558453'> Creating New BigQuery Datasets and Visualizing Insights. </a>
+- <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/5116517'> Analyzing and Visualizing Data in Looker. </a>
+- <a> Looker Connect Learning: Data Consumer, LookML Developer, Admin. </a>
 
+#### Google Analytics Academy
 - <a href='https://analytics.google.com/analytics/academy/certificate/bpFk1OUbS1qC5Wq92M0Hug'> Introducción a Data Studio. </a>
-- <a href='https://connect.looker.com/'> Looker Connect Learning: Data Consumer, LookML Developer, Admin. </a>
-
 - <a href='https://analytics.google.com/analytics/academy/certificate/-fpKhPsOSk-i8Nr6bBSNHw'> Google Analytics para Principiantes. </a>
 - <a href='https://analytics.google.com/analytics/academy/certificate/CQy5RkzhTSCcTbKuagzf-w'> Curso avanzado de Google Analytics. </a>
 - <a href='https://analytics.google.com/analytics/academy/certificate/otffk_o9SEWNnjzXnHVfOg'> Google Analytics para Usuarios Avanzados. </a>
@@ -67,7 +67,7 @@
 
 ## Cloud Computing
 ### Google
-- <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5'> Perfil público </a>
+- <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5'> ***Perfil público*** </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3425264'> Google Cloud: Getting Started - Create and Manage Cloud Resource. 
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3452613'> Google Cloud Fundamentals: Core Infrastructure. </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3536062'> Perform Foundational Infrastructure Tasks in Google Cloud. </a>
