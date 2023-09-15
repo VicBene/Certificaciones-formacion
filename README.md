@@ -71,6 +71,7 @@
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3425264'> Google Cloud: Getting Started - Create and Manage Cloud Resource. 
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3452613'> Google Cloud Fundamentals: Core Infrastructure. </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3536062'> Perform Foundational Infrastructure Tasks in Google Cloud. </a>
+- <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/5151329'> Google Cloud Computing Foundations: Cloud Computing Fundamentals. </a>
 
 ## Programación
 - <a href='https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/'> Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). </a>
