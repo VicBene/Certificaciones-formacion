@@ -46,7 +46,7 @@
 - <a href='https://www.actualizateprograma.es/Dossier%20Big%20Data%20-%20programa%20Actual%C3%ADzate.pdf'> Contenido del Curso </a>
 - <a href='ANALISIS%20DE%20DATOS%20Y%20BIG%20DATA/Certificado%20Curso%20de%20Programa%20en%20Big%20Data.pdf'> Certificado </a>
 
-### Google Cloud Skills Boost
+### Google Skills Boost
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5'> ***Perfil público*** </a>
 
 #### Data Analyst Learning Path
@@ -66,12 +66,16 @@
 
 
 ## Cloud Computing
-### Google
+### Google Cloud
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5'> ***Perfil público*** </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3425264'> Google Cloud: Getting Started - Create and Manage Cloud Resource. 
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3452613'> Google Cloud Fundamentals: Core Infrastructure. </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/3536062'> Perform Foundational Infrastructure Tasks in Google Cloud. </a>
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5/badges/5151329'> Google Cloud Computing Foundations: Cloud Computing Fundamentals. </a>
+
+### Microsoft Azure
+- <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> ***Perfil público*** </a>
+
 
 ## Programación
 - <a href='https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/'> Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). </a>
