@@ -38,6 +38,9 @@
 - <a href='https://www.udemy.com/certificate/UC-d91b6d53-10dc-4dbb-aaae-39df90783d16/'> Jira: Gestiona proyectos Corporativos de forma Ágil (Ûdemy) </a>
 - <a href='https://www.udemy.com/certificate/UC-83506a67-8d3b-421f-abb8-9c893ecd63dd/'> Gestiona tu Proyecto Agile Scrum con Jira (Ûdemy) </a>
 
+## Gestión de servicios
+- <a href='https://cntg.xunta.gal/web/cntg/cursos/-/detalle/12570'> ITIL 4 Foundation **[EN PROCESO]**</a>
+
 
 ## Análisis de Datos y Big Data
 - <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
