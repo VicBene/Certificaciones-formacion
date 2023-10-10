@@ -78,6 +78,7 @@
 
 ### Microsoft Azure
 - <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> ***Perfil público*** </a>
+- <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> Microsoft Azure Fundamentals AZ-900 ***[EN PROCESO]*** </a>
 
 
 ## Programación
