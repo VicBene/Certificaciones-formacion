@@ -39,7 +39,7 @@
 - <a href='https://www.udemy.com/certificate/UC-83506a67-8d3b-421f-abb8-9c893ecd63dd/'> Gestiona tu Proyecto Agile Scrum con Jira (Ûdemy) </a>
 
 ## Gestión de servicios
-- <a href='https://cntg.xunta.gal/web/cntg/cursos/-/detalle/12570'> ITIL 4 Foundations **[CERTIFICACIÓN EN PROCESO]**</a>
+- <a href='/OTROS/Axelos ITIL 4 Foundation Certificate in IT Service Management.pdf'> Axelos **ITIL 4 Foundation** Certificate in IT Service Management </a>
 
 
 ## Análisis de Datos y Big Data
