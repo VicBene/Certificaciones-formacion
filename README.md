@@ -83,8 +83,8 @@
 
 ## Programación
 - <a href='https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/'> Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). </a>
-- <a href='/PROGRAMACION/Certificado Curso de Programación en Python (CAS)   .pdf'> Curso de Programación en Python (CAS Training - OpenEDG - Python Institute). </a>
-    - Certificaciones PCEP-30-02 y PCAP-31-03 *EN PROCESO*.
+- <a href='/PROGRAMACION/Certificado Curso de Programación en Python (CAS)   .pdf'> Curso de Programación en Python (CAS Training - OpenEDG - Python Institute). Certificación PCAP-31-03 *EN PROCESO*. </a>
+- <a href='https://verify.openedg.org/?id=k40q.jjBB.CGkD'> <img alt='[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer' src='https://images.credly.com/size/220x220/images/94d0811d-8fed-47e5-acc8-50b69342a9a4/pcep-30-02-badge.png' width="100" height="100"></a> 
 - <a href='/PROGRAMACION/Certificado Sun Curso Programación en Java.pdf'> Curso de Programación en Java. Análisis orientado a objetos con UML. </a>
 - <a href='/PROGRAMACION/Certificado Xunta Seminario técnico sobre desenvolvimiento de servicios web usando tecnologia Java EE6.pdf'> Seminario técnico sobre Desenvolvimiento de servicios web usando tecnologia Java EE6. </a>
 - <a href='/PROGRAMACION/Certificado Curso Programación y desarrollo de aplicaciones informáticas.pdf'> Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix). </a>
