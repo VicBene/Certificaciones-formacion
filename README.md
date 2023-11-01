@@ -80,6 +80,9 @@
 - <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> ***Perfil público*** </a>
 - <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> Microsoft Azure Fundamentals AZ-900 ***[EN PROCESO]*** </a>
 
+### Amazon Web Services (AWS)
+- <a href='https://www.cursosfemxa.es/servicio-cloud-aws-gratuito-curso'> Curso IFCD110 Servicios en la nube (Cloud) con AWS ***[AWS Certified Cloud Practitioner EN PROCESO]*** </a>
+
 
 ## Programación
 - <a href='https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/'> Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). </a>
