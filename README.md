@@ -78,21 +78,30 @@
 
 ### Microsoft Azure
 - <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> ***Perfil público*** </a>
-- <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> Microsoft Azure Fundamentals AZ-900 ***[EN PROCESO]*** </a>
+- Microsoft Azure Fundamentals AZ-900 **[EN PROCESO]** </a>
 
 ### Amazon Web Services (AWS)
-- <a href='https://www.cursosfemxa.es/servicio-cloud-aws-gratuito-curso'> Curso IFCD110 Servicios en la nube (Cloud) con AWS ***[AWS Certified Cloud Practitioner EN PROCESO]*** </a>
-
+- <a href='CLOUD COMPUTING/Curso IFCD110 SERVICIOS EN LA NUBE (CLOUD) CON AWS.pdf'> Curso IFCD110 Servicios en la nube (Cloud) con AWS </a>
+- AWS Certified Cloud Practitioner **[EN PROCESO]**
 
 ## Programación
-- <a href='https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/'> Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). </a>
-- <a href='/PROGRAMACION/Certificado Curso de Programación en Python (CAS)   .pdf'> Curso de Programación en Python (CAS Training - OpenEDG - Python Institute). Certificación PCAP-31-03 *EN PROCESO*. </a>
-- <a href='https://verify.openedg.org/?id=k40q.jjBB.CGkD'> <img alt='[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer' src='https://images.credly.com/size/220x220/images/94d0811d-8fed-47e5-acc8-50b69342a9a4/pcep-30-02-badge.png' width="100" height="100"></a> 
+
+### Python
+<a href='https://verify.openedg.org/?id=k40q.jjBB.CGkD'> <img alt='[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer' src='https://images.credly.com/size/220x220/images/94d0811d-8fed-47e5-acc8-50b69342a9a4/pcep-30-02-badge.png' width="120" height="120" align="left"></a> 
+- <a href='/PROGRAMACION/Certificado Curso de Programación en Python (CAS)   .pdf'> Curso de Programación en Python (CAS Training - OpenEDG - Python Institute). </a>
+- <a href='/PROGRAMACION/Certificate PCEP Python Institute - VABL.pdf'> Certificación PCEP-30-02
+- Certificación PCAP-31-03 **[EN PROCESO]**.
+- <a href='/PROGRAMACION/Certificado Seminario de Introducción al Machine Learning con Python.pdf'> Seminario técnico de Introducción al Machine Learning con Python </a>
+
+### Java
 - <a href='/PROGRAMACION/Certificado Sun Curso Programación en Java.pdf'> Curso de Programación en Java. Análisis orientado a objetos con UML. </a>
 - <a href='/PROGRAMACION/Certificado Xunta Seminario técnico sobre desenvolvimiento de servicios web usando tecnologia Java EE6.pdf'> Seminario técnico sobre Desenvolvimiento de servicios web usando tecnologia Java EE6. </a>
+
+### Otros
+- <a href='https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/'> Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). </a>
 - <a href='/PROGRAMACION/Certificado Curso Programación y desarrollo de aplicaciones informáticas.pdf'> Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix). </a>
 - <a href='/PROGRAMACION/Certificado Curso Diseño de páginas web en HTML con integración de multimedia, Javascript y Java.pdf'> Curso de Diseño de páginas web en HTML con integración de multimedia, Javascript y Java. </a>
-- <a href='/PROGRAMACION/Certificado Seminario de Introducción al Machine Learning con Python.pdf'> Seminario técnico de Introducción al Machine Learning con Python </a>
+
 
 ## Bases de datos
 - <a href='/BBDD/Certificado Oracle Curso Administracion de bases de datos Oracle 11g R2 DBA OCP.pdf'> Curso Administracion de bases de datos Oracle 11g R2 DBA OCP. </a>
