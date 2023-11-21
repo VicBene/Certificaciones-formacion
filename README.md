@@ -32,7 +32,7 @@
 
 ### Máster en Agile - theUncoding / Cluster TIC
 - <a href='https://shop.theuncoding.com/producto/master-agile/'> Contenido del Máster </a>
-- <a href='https://theuncoding.com/certificates/master-agile/?course_id=68403&cert-nonce=a82f50cbf8'> Certificado </a>
+- <a href='/PROJECT MANAGEMENT/VICTOR-BENEITO-LOPEZ-Master-Agile-Master-Agile-theUncoding.pdf'> Certificado </a>
 
 ### JIRA Software (Atlassian Suite)
 - <a href='https://www.udemy.com/certificate/UC-d91b6d53-10dc-4dbb-aaae-39df90783d16/'> Jira: Gestiona proyectos Corporativos de forma Ágil (Ûdemy) </a>
