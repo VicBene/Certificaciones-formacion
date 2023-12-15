@@ -1,5 +1,6 @@
 # Certificados, cursos y seminarios
  Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
+- <a href='CV Víctor Beneito López - TP V3.1.pdf'> CV Actualizado (noviembre 2023) </a>
 
 ## Gestión de Proyectos / Proyect Management
 ### Scrum.org. Certificados profesionales.
@@ -15,6 +16,9 @@
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Scrum Manager Experto' src='https://scrummanager.com/website/img/experto-es.png'></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Kanban Essentials' src='https://scrummanager.com/intranet/files/credential/9/smalllogo.png'></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Lean' src='https://scrummanager.com/intranet/files/credential/12/smalllogo.png'></a>
+
+### PRINCE2
+- <a href=''> Certificación Axelos PRINCE2 Foundation [en proceso] </a>
 
 ### Google. Certificado de especialización en Gestión de Proyectos.
 <a href='https://www.coursera.org/account/accomplishments/professional-cert/Z5WJ96KSYPZN'> <img alt='Gestión de proyectos de Google' src='https://images.credly.com/size/680x680/images/195d0589-8a46-4366-bedc-41749c663a42/image.png' width="180" height="180" align="left">
