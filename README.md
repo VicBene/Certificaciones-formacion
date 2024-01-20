@@ -18,7 +18,7 @@
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Lean' src='https://scrummanager.com/intranet/files/credential/12/smalllogo.png'></a>
 
 ### PRINCE2
-- <a href=''> Certificación Axelos PRINCE2 Foundation [en proceso] </a>
+- <a href='/PROJECT MANAGEMENT/Certificado Curso PRINCE2 Foundation - TecnoFor.pdf'> Curso PRINCE2 Foundation (TecnoFor) **[Certificación EN PROCESO]** </a>
 
 ### Google. Certificado de especialización en Gestión de Proyectos.
 <a href='https://www.coursera.org/account/accomplishments/professional-cert/Z5WJ96KSYPZN'> <img alt='Gestión de proyectos de Google' src='https://images.credly.com/size/680x680/images/195d0589-8a46-4366-bedc-41749c663a42/image.png' width="180" height="180" align="left">
@@ -108,6 +108,7 @@
 
 
 ## Bases de datos
+- <a href='/BBDD/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Azure Data Fundamentals DP-0900. **[Certificación EN PROCESO]** </a>
 - <a href='/BBDD/Certificado Oracle Curso Administracion de bases de datos Oracle 11g R2 DBA OCP.pdf'> Curso Administracion de bases de datos Oracle 11g R2 DBA OCP. </a>
 - <a href='/BBDD/Certificado Seminario sobre tuning y ajustes de rendimiento en bases de datos Oracle.pdf'> Seminario sobre tuning y ajustes de rendimiento en bases de datos Oracle. </a>
 
