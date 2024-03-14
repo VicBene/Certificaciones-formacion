@@ -3,8 +3,17 @@
 - <a href='CV Víctor Beneito López - TP V3.1.pdf'> CV Actualizado (noviembre 2023) </a>
 
 ## Gestión de servicios IT
+### ITIL®4 
 <a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Axelos%20ITIL%204%20Foundation%20Certificate%20in%20IT%20Service%20Management.pdf'> <img alt='ITIL 4 Foundation' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20Foundation%201.png' width="100" height="100"></a>
 <a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Certificado%20ITIL%204%20Specialist%20Drive%20Stakeholder%20Value.pdf'> <img alt='ITIL 4 Specialist Drive Stakeholder Value' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20DSV.png' width="100" height="100"></a>
+
+### Google. Certificado de especialización en Soporte TI.
+<a href='https://www.coursera.org/account/accomplishments/professional-cert/2DRSRWBCWUKH'> <img alt='Soporte de TI de Google' src='https://images.credly.com/size/680x680/images/7c355969-da4a-47e5-8155-c4edd0146bba/image.png' width="160" height="160" align="left">
+- <a href='https://www.coursera.org/account/accomplishments/certificate/3K4RTF4LWSUG'> Aspectos básicos de la asistencia técnica. </a>
+- <a href='https://www.coursera.org/account/accomplishments/certificate/N4VPDFY8HBD3'> Los bits y bytes de las redes informáticas. </a>
+- <a href='https://www.coursera.org/account/accomplishments/certificate/G85TLH6KK8MS'> Seguridad informática: defensa contra las artes oscuras digitales. </a> 
+- <a href='https://www.coursera.org/account/accomplishments/certificate/SSE5QCHEDWJ6'> Sistemas operativos y tú: Convertirse en un usuario avanzado. </a>
+- <a href='https://www.coursera.org/account/accomplishments/certificate/9QXZVNEHXE5J'> Administración de sistemas y servicios de infraestructura de TI. </a>
 
 ## Gestión de Proyectos / Project Management
 ### Scrum.org. Certificados profesionales.
@@ -82,16 +91,16 @@
 
 ### Microsoft Azure
 - <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> ***Perfil público*** </a>
-- Microsoft Azure Fundamentals AZ-900 **[EN PROCESO]** </a>
+- <a href='/BBDD/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Data Azure Fundamentals **[Certificación DP-900 EN PROCESO]** </a>
 
 ### Amazon Web Services (AWS)
 - <a href='CLOUD COMPUTING/Curso IFCD110 SERVICIOS EN LA NUBE (CLOUD) CON AWS.pdf'> Curso IFCD110 Servicios en la nube (Cloud) con AWS </a>
-- AWS Certified Cloud Practitioner **[EN PROCESO]**
+- AWS Certified Cloud Practitioner **[Certificación EN PROCESO]**
 
 ## Programación
 
 ### Python
-<a href='https://verify.openedg.org/?id=k40q.jjBB.CGkD'> <img alt='[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer' src='https://images.credly.com/size/220x220/images/94d0811d-8fed-47e5-acc8-50b69342a9a4/pcep-30-02-badge.png' width="120" height="120" align="left"></a> 
+<a href='https://verify.openedg.org/?id=k40q.jjBB.CGkD'> <img alt='[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer' src='https://images.credly.com/size/680x680/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png' width="120" height="120" align="left"></a> 
 - <a href='/PROGRAMACION/Certificado Curso de Programación en Python (CAS)   .pdf'> Curso de Programación en Python (CAS Training - OpenEDG - Python Institute). </a>
 - <a href='/PROGRAMACION/Certificate PCEP Python Institute - VABL.pdf'> Certificación PCEP-30-02
 - Certificación PCAP-31-03 **[EN PROCESO]**.
@@ -108,7 +117,6 @@
 
 
 ## Bases de datos
-- <a href='/BBDD/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Azure Data Fundamentals DP-0900. **[Certificación EN PROCESO]** </a>
 - <a href='/BBDD/Certificado Oracle Curso Administracion de bases de datos Oracle 11g R2 DBA OCP.pdf'> Curso Administracion de bases de datos Oracle 11g R2 DBA OCP. </a>
 - <a href='/BBDD/Certificado Seminario sobre tuning y ajustes de rendimiento en bases de datos Oracle.pdf'> Seminario sobre tuning y ajustes de rendimiento en bases de datos Oracle. </a>
 
