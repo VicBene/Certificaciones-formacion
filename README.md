@@ -4,6 +4,8 @@
 
 ## Gestión de servicios IT
 ### ITIL®4 
+- <a href='https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJKAC9MLmCUDNfYYzqkPrAG'> ***Perfil público (PeopleCert)*** </a>
+
 <a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Axelos%20ITIL%204%20Foundation%20Certificate%20in%20IT%20Service%20Management.pdf'> <img alt='ITIL 4 Foundation' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20Foundation%201.png' width="100" height="100"></a>
 <a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Certificado%20ITIL%204%20Specialist%20Drive%20Stakeholder%20Value.pdf'> <img alt='ITIL 4 Specialist Drive Stakeholder Value' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20DSV.png' width="100" height="100"></a>
 
