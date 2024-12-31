@@ -33,7 +33,7 @@
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'> <img alt='Lean' src='https://scrummanager.com/intranet/files/credential/12/smalllogo.png'></a>
 
 ### PRINCE2
-- <a href='/PROJECT MANAGEMENT/Certificado Curso PRINCE2 Foundation - TecnoFor.pdf'> Curso PRINCE2 Foundation (TecnoFor) **[Certificación EN PROCESO]** </a>
+- <a href='/PROJECT MANAGEMENT/Certificado Curso PRINCE2 Foundation - TecnoFor.pdf'> Curso PRINCE2 Foundation (TecnoFor) </a>
 
 ### Google. Certificado de especialización en Gestión de Proyectos.
 <a href='https://www.coursera.org/account/accomplishments/professional-cert/Z5WJ96KSYPZN'> <img alt='Gestión de proyectos de Google' src='https://images.credly.com/size/680x680/images/195d0589-8a46-4366-bedc-41749c663a42/image.png' width="180" height="180" align="left">
@@ -93,11 +93,11 @@
 
 ### Microsoft Azure
 - <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> ***Perfil público*** </a>
-- <a href='/BBDD/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Data Azure Fundamentals **[Certificación DP-900 EN PROCESO]** </a>
+- <a href='/BBDD/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Data Azure Fundamentals </a>
 
 ### Amazon Web Services (AWS)
 - <a href='CLOUD COMPUTING/Curso IFCD110 SERVICIOS EN LA NUBE (CLOUD) CON AWS.pdf'> Curso IFCD110 Servicios en la nube (Cloud) con AWS </a>
-- AWS Certified Cloud Practitioner **[Certificación EN PROCESO]**
+- AWS Certified Cloud Practitioner
 
 ## Programación
 
@@ -107,6 +107,16 @@
 - <a href='/PROGRAMACION/Certificate PCEP Python Institute - VABL.pdf'> Certificación PCEP-30-02
 - Certificación PCAP-31-03 **[EN PROCESO]**.
 - <a href='/PROGRAMACION/Certificado Seminario de Introducción al Machine Learning con Python.pdf'> Seminario técnico de Introducción al Machine Learning con Python </a>
+
+#### Certificado de Google IT Automation with Python.
+<a href='https://www.coursera.org/account/accomplishments/specialization/5PW1VTF4QB9J'> <img alt='Google IT Automation with Pythone' src='https://images.credly.com/size/680x680/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png' width="180" height="180" align="left">
+- <a href='https://www.coursera.org/account/accomplishments/certificate/YY0XV4UCBIME'> Crash Course on Python. </a>
+- <a href='https://www.coursera.org/account/accomplishments/certificate/5O44LP5GAIKM'> Using Python to Interact with the Operating System. </a>
+- <a href='https://www.coursera.org/account/accomplishments/certificate/UXT0MU8FIPWP'> Introduction to Git and GitHub. </a> 
+- <a href='https://www.coursera.org/account/accomplishments/certificate/4OFS9MRX104S'> Troubleshooting and Debugging Techniques. </a>
+- <a href='https://www.coursera.org/account/accomplishments/certificate/RFEFON0LVGSE'> Configuration Management and the Cloud. </a>
+- <a href='https://www.coursera.org/account/accomplishments/certificate/5AKQ7F2T1VO1'> Automating Real-World Tasks with Python. </a>
+
 
 ### Java
 - <a href='/PROGRAMACION/Certificado Sun Curso Programación en Java.pdf'> Curso de Programación en Java. Análisis orientado a objetos con UML. </a>
