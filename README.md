@@ -1,12 +1,13 @@
 # Certificados, cursos y seminarios
  Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
-- <a href='CV Víctor Beneito López - TP V3.1.pdf'> CV Actualizado (noviembre 2023) </a>
+- <a href='CV Víctor Beneito López - TP V3.1.pdf'> CV Actualizado (julio 2025) </a>
 
 ## Gestión de servicios IT
 ### ITIL®4 
 - <a href='https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJKAC9MLmCUDNfYYzqkPrAG'> ***Perfil público (PeopleCert)*** </a>
 
 <a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Axelos%20ITIL%204%20Foundation%20Certificate%20in%20IT%20Service%20Management.pdf'> <img alt='ITIL 4 Foundation' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20Foundation%201.png' width="100" height="100"></a>
+<a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Certificado%20ITIL%204%20Specialist%20Drive%20Stakeholder%20Value.pdf'> <img alt='ITIL 4 Specialist Drive Stakeholder Value' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20DSV.png' width="100" height="100"></a>
 <a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Certificado%20ITIL%204%20Specialist%20Drive%20Stakeholder%20Value.pdf'> <img alt='ITIL 4 Specialist Drive Stakeholder Value' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20DSV.png' width="100" height="100"></a>
 
 ### Google. Certificado de especialización en Soporte TI.
@@ -57,6 +58,10 @@
 - <a href='https://www.udemy.com/certificate/UC-d91b6d53-10dc-4dbb-aaae-39df90783d16/'> Jira: Gestiona proyectos Corporativos de forma Ágil (Ûdemy) </a>
 - <a href='https://www.udemy.com/certificate/UC-83506a67-8d3b-421f-abb8-9c893ecd63dd/'> Gestiona tu Proyecto Agile Scrum con Jira (Ûdemy) </a>
 
+## IA - Inteligencia Artificial
+- <a href='https://www.credly.com/badges/ba18facf-b519-4e3a-81d4-e409a0c7c497/public_url'> Artificial Intelligence Fundamentals (IBM SkillsBuild) </a>
+
+
 ## Análisis de Datos y Big Data
 - <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
 
@@ -81,7 +86,6 @@
 - <a href='https://analytics.google.com/analytics/academy/certificate/otffk_o9SEWNnjzXnHVfOg'> Google Analytics para Usuarios Avanzados. </a>
 - <a href='https://analytics.google.com/analytics/academy/certificate/17zukPDWRAy0RM04u-bUCQ'> Introducción a Google Analytics 360. </a>
 - <a href='https://analytics.google.com/analytics/academy/certificate/kR4BePvJSweHY9BhoTYK9g'> Conceptos básicos de Google Tag Manager. </a>
-
 
 ## Cloud Computing
 ### Google Cloud
