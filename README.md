@@ -18,6 +18,7 @@
 - <a href='https://www.coursera.org/account/accomplishments/certificate/SSE5QCHEDWJ6'> Sistemas operativos y tú: Convertirse en un usuario avanzado. </a>
 - <a href='https://www.coursera.org/account/accomplishments/certificate/9QXZVNEHXE5J'> Administración de sistemas y servicios de infraestructura de TI. </a>
 
+<br></br>
 ## Gestión de Proyectos / Project Management
 ### Scrum.org. Certificados profesionales.
 - <a href='https://www.scrum.org/user/1248029'> ***Perfil público*** </a>
@@ -58,12 +59,14 @@
 - <a href='https://www.udemy.com/certificate/UC-d91b6d53-10dc-4dbb-aaae-39df90783d16/'> Jira: Gestiona proyectos Corporativos de forma Ágil (Ûdemy) </a>
 - <a href='https://www.udemy.com/certificate/UC-83506a67-8d3b-421f-abb8-9c893ecd63dd/'> Gestiona tu Proyecto Agile Scrum con Jira (Ûdemy) </a>
 
+<br></br>
 ## IA - Inteligencia Artificial
 - <a href='https://www.credly.com/badges/ba18facf-b519-4e3a-81d4-e409a0c7c497/public_url'> Artificial Intelligence Fundamentals (IBM SkillsBuild) </a>
 
-
+<br></br>
 ## Análisis de Datos y Big Data
 - <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
+- <a href='ANALISIS%20DE%20DATOS%20Y%20BIG%20DATA/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Data Azure Fundamentals DP-900T00-A </a>
 
 ### Programa en Big Data - The Valley Digital Business School
 - <a href='https://www.actualizateprograma.es/Dossier%20Big%20Data%20-%20programa%20Actual%C3%ADzate.pdf'> Contenido del Curso </a>
@@ -87,6 +90,7 @@
 - <a href='https://analytics.google.com/analytics/academy/certificate/17zukPDWRAy0RM04u-bUCQ'> Introducción a Google Analytics 360. </a>
 - <a href='https://analytics.google.com/analytics/academy/certificate/kR4BePvJSweHY9BhoTYK9g'> Conceptos básicos de Google Tag Manager. </a>
 
+<br></br>
 ## Cloud Computing
 ### Google Cloud
 - <a href='https://www.cloudskillsboost.google/public_profiles/83171607-a05f-406f-977e-3131003db8b5'> ***Perfil público*** </a>
@@ -97,12 +101,11 @@
 
 ### Microsoft Azure
 - <a href='https://learn.microsoft.com/es-es/users/victorbeneitolopez/transcript/vyqgrfwzq2y925e'> ***Perfil público*** </a>
-- <a href='/BBDD/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Data Azure Fundamentals </a>
 
 ### Amazon Web Services (AWS)
 - <a href='CLOUD COMPUTING/Curso IFCD110 SERVICIOS EN LA NUBE (CLOUD) CON AWS.pdf'> Curso IFCD110 Servicios en la nube (Cloud) con AWS </a>
-- AWS Certified Cloud Practitioner
 
+<br></br>
 ## Programación
 
 ### Python
@@ -131,7 +134,7 @@
 - <a href='/PROGRAMACION/Certificado Curso Programación y desarrollo de aplicaciones informáticas.pdf'> Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix). </a>
 - <a href='/PROGRAMACION/Certificado Curso Diseño de páginas web en HTML con integración de multimedia, Javascript y Java.pdf'> Curso de Diseño de páginas web en HTML con integración de multimedia, Javascript y Java. </a>
 
-
+<br></br>
 ## Bases de datos
 - <a href='/BBDD/Certificado Oracle Curso Administracion de bases de datos Oracle 11g R2 DBA OCP.pdf'> Curso Administracion de bases de datos Oracle 11g R2 DBA OCP. </a>
 - <a href='/BBDD/Certificado Seminario sobre tuning y ajustes de rendimiento en bases de datos Oracle.pdf'> Seminario sobre tuning y ajustes de rendimiento en bases de datos Oracle. </a>
