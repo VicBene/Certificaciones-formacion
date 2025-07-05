@@ -1,9 +1,10 @@
 # Certificados, cursos y seminarios
  Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
 - <a href='CV Víctor Beneito López - TP V3.1.pdf'> CV Actualizado (julio 2025) </a>
+- <a href="credly.com/users/victor-beneito-lopez"> Perfil público de **Credly** </a>
 
 <br></br>
-## Gestión de servicios IT
+## Gestión de servicios IT (ITSM)
 ### ITIL®4 
 - <a href='https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJKAC9MLmCUDNfYYzqkPrAG'> ***Perfil público (PeopleCert)*** </a>
 
@@ -29,7 +30,7 @@
 
 
 <br></br>
-## Gestión de Proyectos / Project Management
+## Gestión de Proyectos (Project Management)
 ### Scrum.org. Certificados profesionales.
 - <a href='https://www.scrum.org/user/1248029'> ***Perfil público*** </a>
 
@@ -72,11 +73,18 @@
 <br></br>
 ## IA - Inteligencia Artificial
 - <a href='https://www.credly.com/badges/ba18facf-b519-4e3a-81d4-e409a0c7c497/public_url'> Artificial Intelligence Fundamentals (IBM SkillsBuild) </a>
+- <a href='https://www.credly.com/badges/9066df40-d8ec-4584-ae5a-4f2fafb69891/public_url'> Google AI Essentials V1 </a>
+
 
 <br></br>
 ## Análisis de Datos y Big Data
-- <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
 - <a href='ANALISIS%20DE%20DATOS%20Y%20BIG%20DATA/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Data Azure Fundamentals DP-900T00-A </a>
+
+### Microsoft Power BI
+- <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
+- <a href='/ANALISIS DE DATOS Y BIG DATA/Certificado Curso de Power BI Avanzado y aplicaciones de negocio (Formadores IT).pdf'> Curso de Power BI Avanzado y aplicaciones de negocio (Formadores IT). </a>
+- <a href='/ANALISIS DE DATOS Y BIG DATA/Certificado Curso de Power BI IBM SkillsBuild (datahack).pdf'> Curso de Power BI IBM SkillsBuild (datahack). </a>
+
 
 ### Programa en Big Data - The Valley Digital Business School
 - <a href='https://www.actualizateprograma.es/Dossier%20Big%20Data%20-%20programa%20Actual%C3%ADzate.pdf'> Contenido del Curso </a>
@@ -150,4 +158,5 @@
 - <a href='/BBDD/Certificado Seminario sobre tuning y ajustes de rendimiento en bases de datos Oracle.pdf'> Seminario sobre tuning y ajustes de rendimiento en bases de datos Oracle. </a>
 
 ## Otros
+- <a href='https://www.credly.com/badges/f57d81df-5eea-4718-ab4f-34a30c9e1ecb/public_url'> Working in a Digital World: Professional Skills (issued by IBM SkillsBuild) </a>
 - <a href='/OTROS/Certificado Curso Configuracion de servicios de seguridad corporativa.pdf'> Curso de Configuracion de servicios de seguridad corporativa </a>
