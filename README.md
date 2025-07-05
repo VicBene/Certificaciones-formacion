@@ -2,21 +2,31 @@
  Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
 - <a href='CV Víctor Beneito López - TP V3.1.pdf'> CV Actualizado (julio 2025) </a>
 
+<br></br>
 ## Gestión de servicios IT
 ### ITIL®4 
 - <a href='https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJKAC9MLmCUDNfYYzqkPrAG'> ***Perfil público (PeopleCert)*** </a>
 
-<a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Axelos%20ITIL%204%20Foundation%20Certificate%20in%20IT%20Service%20Management.pdf'> <img alt='ITIL 4 Foundation' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20Foundation%201.png' width="100" height="100"></a>
-<a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Certificado%20ITIL%204%20Specialist%20Drive%20Stakeholder%20Value.pdf'> <img alt='ITIL 4 Specialist Drive Stakeholder Value' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20DSV.png' width="100" height="100"></a>
-<a href='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/Certificado%20ITIL%204%20Specialist%20Drive%20Stakeholder%20Value.pdf'> <img alt='ITIL 4 Specialist Drive Stakeholder Value' src='https://github.com/VicBene/Certificaciones-formacion/blob/main/OTROS/ITIL%204%20DSV.png' width="100" height="100"></a>
+<a href="https://badges.peoplecert.org/Badge/en/18CF9169-5910-490B-9D4E-B45230015D76" title="ITIL® 4 Foundation Certificate in IT Service Management" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/63804148-665a-4881-aac6-eaec58799a85" alt="ITIL® 4 Foundation Certificate in IT Service Management" /></a>
+<a href="https://badges.peoplecert.org/Badge/en/079B9C19-C7B7-40E6-ADE6-B3933D0CEDA3" title="ITIL® 4 Specialist Drive Stakeholder Value" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/6d858406-34aa-4107-9dc0-17b876544795" alt="ITIL® 4 Specialist Drive Stakeholder Value" /></a>
+<a href="https://badges.peoplecert.org/Badge/en/D2D43290-F2AC-4C46-9F34-BB9ED30FCC91" title="ITIL® 4 Strategist Direct, Plan and Improve" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/d50c2c7d-4c39-4842-a10a-b621dd7c68aa" alt="ITIL® 4 Strategist Direct, Plan and Improve" /></a>
+<a href="https://badges.peoplecert.org/Badge/en/CA4A296D-673A-4198-A386-C118BD0936CC" title="ITIL 4 Practice Guides" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/5954c74a-93c1-418a-b972-a521d3963329" alt="ITIL 4 Practice Guides" /></a>
+<a href="https://badges.peoplecert.org/Badge/en/19EF2239-5AA0-4C0F-AFF3-0EA7C5A50328" title="AI Unlocked" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/74cadb44-a71e-4057-ae2d-c564e3bfb245" alt="AI Unlocked" /></a>
 
-### Google. Certificado de especialización en Soporte TI.
+### Google - Especialización en Soporte TI.
 <a href='https://www.coursera.org/account/accomplishments/professional-cert/2DRSRWBCWUKH'> <img alt='Soporte de TI de Google' src='https://images.credly.com/size/680x680/images/7c355969-da4a-47e5-8155-c4edd0146bba/image.png' width="160" height="160" align="left">
 - <a href='https://www.coursera.org/account/accomplishments/certificate/3K4RTF4LWSUG'> Aspectos básicos de la asistencia técnica. </a>
 - <a href='https://www.coursera.org/account/accomplishments/certificate/N4VPDFY8HBD3'> Los bits y bytes de las redes informáticas. </a>
 - <a href='https://www.coursera.org/account/accomplishments/certificate/G85TLH6KK8MS'> Seguridad informática: defensa contra las artes oscuras digitales. </a> 
 - <a href='https://www.coursera.org/account/accomplishments/certificate/SSE5QCHEDWJ6'> Sistemas operativos y tú: Convertirse en un usuario avanzado. </a>
 - <a href='https://www.coursera.org/account/accomplishments/certificate/9QXZVNEHXE5J'> Administración de sistemas y servicios de infraestructura de TI. </a>
+<br></br>
+### ServiceNow
+- <a href='https://learning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=victorbene868912'> ***Perfil público (ServiceNow University)*** </a>
+
+### Otros cursos y certificaciones
+- <a href='/IT SERVICE MANAGEMENT/Certificado_Asistencia_Curso_Ansible_Automatizacion_IT.pdf'> Ansible Automatización IT</a>
+
 
 <br></br>
 ## Gestión de Proyectos / Project Management
@@ -112,10 +122,10 @@
 <a href='https://verify.openedg.org/?id=k40q.jjBB.CGkD'> <img alt='[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer' src='https://images.credly.com/size/680x680/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png' width="120" height="120" align="left"></a> 
 - <a href='/PROGRAMACION/Certificado Curso de Programación en Python (CAS)   .pdf'> Curso de Programación en Python (CAS Training - OpenEDG - Python Institute). </a>
 - <a href='/PROGRAMACION/Certificate PCEP Python Institute - VABL.pdf'> Certificación PCEP-30-02
-- Certificación PCAP-31-03 **[EN PROCESO]**.
 - <a href='/PROGRAMACION/Certificado Seminario de Introducción al Machine Learning con Python.pdf'> Seminario técnico de Introducción al Machine Learning con Python </a>
 
-#### Certificado de Google IT Automation with Python.
+<br></br>
+#### Google - IT Automation with Python.
 <a href='https://www.coursera.org/account/accomplishments/specialization/5PW1VTF4QB9J'> <img alt='Google IT Automation with Pythone' src='https://images.credly.com/size/680x680/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png' width="180" height="180" align="left">
 - <a href='https://www.coursera.org/account/accomplishments/certificate/YY0XV4UCBIME'> Crash Course on Python. </a>
 - <a href='https://www.coursera.org/account/accomplishments/certificate/5O44LP5GAIKM'> Using Python to Interact with the Operating System. </a>
@@ -130,7 +140,7 @@
 - <a href='/PROGRAMACION/Certificado Xunta Seminario técnico sobre desenvolvimiento de servicios web usando tecnologia Java EE6.pdf'> Seminario técnico sobre Desenvolvimiento de servicios web usando tecnologia Java EE6. </a>
 
 ### Otros
-- <a href='https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/'> Curso de GIT+GitHub: Todo un sistema de control de versiones de cero (Ûdemy). </a>
+- <a href='https://www.udemy.com/certificate/UC-5dbf5206-70cb-4d1b-83a1-b228e1a273d4/'> Curso de **GIT+GitHub**: Todo un sistema de control de versiones de cero (Ûdemy). </a>
 - <a href='/PROGRAMACION/Certificado Curso Programación y desarrollo de aplicaciones informáticas.pdf'> Curso de Programación y desarrollo de aplicaciones informáticas (C, Cobol, Clipper, Unix). </a>
 - <a href='/PROGRAMACION/Certificado Curso Diseño de páginas web en HTML con integración de multimedia, Javascript y Java.pdf'> Curso de Diseño de páginas web en HTML con integración de multimedia, Javascript y Java. </a>
 
