@@ -27,7 +27,7 @@
 
 ### Otros cursos y certificaciones
 - <a href='/IT SERVICE MANAGEMENT/Certificado_Asistencia_Curso_Ansible_Automatizacion_IT.pdf'> Ansible Automatización IT</a>
-
+- AI in ITSM (PeopleCert) [*En proceso de realización*]
 
 <br></br>
 ## Gestión de Proyectos (Project Management)
@@ -74,11 +74,15 @@
 ## IA - Inteligencia Artificial
 - <a href='https://www.credly.com/badges/ba18facf-b519-4e3a-81d4-e409a0c7c497/public_url'> Artificial Intelligence Fundamentals (IBM SkillsBuild) </a>
 - <a href='https://www.credly.com/badges/9066df40-d8ec-4584-ae5a-4f2fafb69891/public_url'> Google AI Essentials V1 </a>
+- <a href='/INTELIGENCIA ARTIFICIAL/Certificado_Cluster_TIC_Galicia - ChatGPT para Profesionales.pdf'> ChatGPT para Profesionales: Aprovecha la IA generativa en el trabajo (TrainingIT). </a>
+- Curso Bootcamp 2025 IA Generativa, LLM Apps, Agentes IA, Cursor AI (Ûdemy) [*En proceso de realización*]
+- Curso The Complete Prompt Engineering for AI Bootcamp 2025 (Ûdemy) [*En proceso de realización*]
 
 
 <br></br>
 ## Análisis de Datos y Big Data
 - <a href='ANALISIS%20DE%20DATOS%20Y%20BIG%20DATA/Certificado Curso Microsoft Azure Data Fundamentals DP-900.pdf'> Curso Microsoft Data Azure Fundamentals DP-900T00-A </a>
+- Curso Business Analytics - Fundae (Odisea Data) [*En proceso de realización*]
 
 ### Microsoft Power BI
 - <a href='https://www.udemy.com/certificate/UC-522f15df-4cbe-4dcb-a1b1-6b6c1d17c06a/'> Curso de Power BI - Análisis de datos y Business Intelligence (Ûdemy - Datdata). </a>
