@@ -5,14 +5,17 @@
 
 <br></br>
 ## Gestión de servicios IT (ITSM)
-### ITIL®4 
+### ITIL®4 - PeopleCert
 - <a href='https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJKAC9MLmCUDNfYYzqkPrAG'> ***Perfil público (PeopleCert)*** </a>
 
 <a href="https://badges.peoplecert.org/Badge/en/18CF9169-5910-490B-9D4E-B45230015D76" title="ITIL® 4 Foundation Certificate in IT Service Management" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/63804148-665a-4881-aac6-eaec58799a85" alt="ITIL® 4 Foundation Certificate in IT Service Management" /></a>
 <a href="https://badges.peoplecert.org/Badge/en/079B9C19-C7B7-40E6-ADE6-B3933D0CEDA3" title="ITIL® 4 Specialist Drive Stakeholder Value" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/6d858406-34aa-4107-9dc0-17b876544795" alt="ITIL® 4 Specialist Drive Stakeholder Value" /></a>
 <a href="https://badges.peoplecert.org/Badge/en/D2D43290-F2AC-4C46-9F34-BB9ED30FCC91" title="ITIL® 4 Strategist Direct, Plan and Improve" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/d50c2c7d-4c39-4842-a10a-b621dd7c68aa" alt="ITIL® 4 Strategist Direct, Plan and Improve" /></a>
 <a href="https://badges.peoplecert.org/Badge/en/CA4A296D-673A-4198-A386-C118BD0936CC" title="ITIL 4 Practice Guides" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/5954c74a-93c1-418a-b972-a521d3963329" alt="ITIL 4 Practice Guides" /></a>
+<br></br>
 <a href="https://badges.peoplecert.org/Badge/en/19EF2239-5AA0-4C0F-AFF3-0EA7C5A50328" title="AI Unlocked" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/74cadb44-a71e-4057-ae2d-c564e3bfb245" alt="AI Unlocked" /></a>
+<a href="https://badges.peoplecert.org/Badge/en/B50263EF-0988-4EEB-8771-FE94582EACFA" title="AI in ITSM" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/3dbb4a99-2b5c-4873-821f-ab89678470d1" alt="AI in ITSM" /></a>
+
 
 ### Google - Especialización en Soporte TI.
 <a href='https://www.coursera.org/account/accomplishments/professional-cert/2DRSRWBCWUKH'> <img alt='Soporte de TI de Google' src='https://images.credly.com/size/680x680/images/7c355969-da4a-47e5-8155-c4edd0146bba/image.png' width="160" height="160" align="left">
@@ -27,7 +30,6 @@
 
 ### Otros cursos y certificaciones
 - <a href='/IT SERVICE MANAGEMENT/Certificado_Asistencia_Curso_Ansible_Automatizacion_IT.pdf'> Ansible Automatización IT</a>
-- AI in ITSM (PeopleCert) [*En proceso de realización*]
 
 <br></br>
 ## Gestión de Proyectos (Project Management)
