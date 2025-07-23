@@ -15,6 +15,7 @@
 <br></br>
 <a href="https://badges.peoplecert.org/Badge/en/19EF2239-5AA0-4C0F-AFF3-0EA7C5A50328" title="AI Unlocked" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/74cadb44-a71e-4057-ae2d-c564e3bfb245" alt="AI Unlocked" /></a>
 <a href="https://badges.peoplecert.org/Badge/en/B50263EF-0988-4EEB-8771-FE94582EACFA" title="AI in ITSM" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/3dbb4a99-2b5c-4873-821f-ab89678470d1" alt="AI in ITSM" /></a>
+<a href="https://badges.peoplecert.org/Badge/en/83E2859C-2A58-4ECF-A6F4-1B310D59BF23" title="Mastering Project Delivery" target="_blank"><img src="https://badges.peoplecert.org/Badges/Template/en/180/e3185e4f-a611-41fb-b933-aece96f4c211" alt="Mastering Project Delivery" /></a>
 
 
 ### Google - Especialización en Soporte TI.
