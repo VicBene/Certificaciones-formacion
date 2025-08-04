@@ -1,7 +1,7 @@
 # Certificados, cursos y seminarios
  Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
 - <a href='CV Víctor Beneito López - ITSM V1.0.pdf'> CV Actualizado (agosto 2025) </a>
-- <a href="credly.com/users/victor-beneito-lopez"> Perfil público de **Credly** </a>
+- <a href="https://www.credly.com/users/victor-beneito-lopez"> Perfil público de **Credly** </a>
 
 <br></br>
 ## Gestión de servicios IT (ITSM)
