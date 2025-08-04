@@ -1,6 +1,6 @@
 # Certificados, cursos y seminarios
  Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
-- <a href='CV Víctor Beneito López - TP V3.1.pdf'> CV Actualizado (julio 2025) </a>
+- <a href='CV Víctor Beneito López - ITSM V1.0.pdf'> CV Actualizado (agosto 2025) </a>
 - <a href="credly.com/users/victor-beneito-lopez"> Perfil público de **Credly** </a>
 
 <br></br>
